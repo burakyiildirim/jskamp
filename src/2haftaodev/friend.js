@@ -21,4 +21,4 @@ function friend(number1 , number2) {
     }
 }
 friend(7567,4142) 
-//by61
+
