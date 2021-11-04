@@ -20,4 +20,4 @@ function friend(number1 , number2) {
         console.log(number1+ " ve " + number2 + " arkadaş sayı değildir")
     }
 }
-friend(7567,4142)
+friend(7567,4142) 
